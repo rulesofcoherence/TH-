@@ -22,7 +22,7 @@ This is not analogy. It is the algebraic minimum for coherence under divergence-
 
 ### Quick Start
 ```bash
-git clone https://github.com/yourusername/THAE.git
+git clone https://github.com/rulesofcoherence/THAE.git
 cd THAE
 pip install -r requirements.txt
 jupyter lab
