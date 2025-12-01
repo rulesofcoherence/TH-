@@ -192,7 +192,6 @@ Geometric Correlates
  * Channel Topology (C_{18}): The \mathbf{18} irreducible exchange channels reproduce >94\text{ \%} of the adjacency structure of the standard genetic code, confirming its role as the error-minimizing graph. [1]
  * Toroidal Modes (T^2): The ten divergence-free harmonic modes restrict \text{DNA} topology. The cycles (\phi, \theta) map directly to linking number decomposition:
    
-   
    This constraint explains the bounding of eukaryotic supercoil spectra. [1]
 Asymmetry Validation
 The RIFT drift (\tau_+/\tau_- \to \varphi) is instantiated in vertebrate genomes by the CpG methylation-deamination-repair cycle. This asymmetry yields \mathbf{\tau_+/\tau_- \approx 1.61 \pm 0.07} across mammalian clades—within \mathbf{5 \%} of \phi, providing direct empirical confirmation of convergence. [1]
@@ -314,7 +313,7 @@ The **THÆ DNA Linguistics Framework** models $\text{DNA}$ as a resonance-constr
 #### Asymmetry Validation
 The **RIFT** drift ($\tau_+/\tau_- \to \varphi$) is instantiated in vertebrate genomes by the **CpG methylation-deamination-repair cycle**. This asymmetry yields $\mathbf{\tau_+/\tau_- \approx 1.61 \pm 0.07}$ across mammalian clades—within $\mathbf{5 \%}$ of $\phi$, providing direct empirical confirmation of convergence. [1]
 
-### CHAPTER 6 — APPENDIX B: THE THÆ-QRF BRIDGE (GRAVITY/QUANTUM BRANCH)
+#### CHAPTER 6 — APPENDIX B: THE THÆ-QRF BRIDGE (GRAVITY/QUANTUM BRANCH)
 
 Gravity and quantum entwine through a coherence kernel. $\text{QRFs}$ assemble into curvature, smoothed by $\text{THÆ}$.
 
