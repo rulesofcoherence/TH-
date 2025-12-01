@@ -132,7 +132,7 @@ The **THÆ DNA Linguistics Framework** models $\text{DNA}$ as a resonance-constr
 #### Asymmetry Validation
 The **RIFT** drift ($\tau_+/\tau_- \to \varphi$) is instantiated in vertebrate genomes by the **CpG methylation-deamination
 System persistence mandates Octahedral symmetry (\mathbf{O_h}), the first fundamental invariant. (Theorem 8.1 [1])
-CHAPTER 2 — THE TORUS THAT BREATHES
+###CHAPTER 2 — THE TORUS THAT BREATHES
 Shape is not motion.
 Motion requires circulation, and circulation requires a vessel that bends without breaking.
 Enter the torus: the breathing dual, where paths loop eternally, divergence-free.
@@ -141,7 +141,7 @@ The Minimal Toroidal Mode Set (Theorem 4.2 [1]) restricts motion to exactly ten 
 Poetic Rendering:
 Two loops around the void.
 Ten ways motion may turn without tearing its own fabric.
-CHAPTER 3 — DUALITY, EXCHANGE, AND THE CHANNEL DECOMPOSITION
+###CHAPTER 3 — DUALITY, EXCHANGE, AND THE CHANNEL DECOMPOSITION
 Between heart and breath lies the bridge: duality.
 Octahedron and torus entwine, cube as shadow-self.
 From this union, channels emerge—not infinite, but eighteen:
@@ -149,7 +149,7 @@ The irreducible paths where identity meets motion.
 The bridge between identity and motion is the Octahedral-Toroidal Duality (Theorem 4.1 [1]).
 The Channel Decomposition Theorem (Theorem 4.3 [1]) shows that interactions reduce to eighteen irreducible exchange channels (\mathbf{C_i}),
 Forming a topological information bottleneck that all coherent evolution must traverse. [1]
-CHAPTER 4 — THÆCODX±1RULES: THE ENGINE OF EMERGENCE AND CONTROL
+###CHAPTER 4 — THÆCODX±1RULES: THE ENGINE OF EMERGENCE AND CONTROL
 The codex awakens: twelve geometric constraints plus one asymmetry engine.
 THÆCODX±1RULES: the paracode that turns symmetry into directed flow,
 Preventing collapse, biasing toward life.
